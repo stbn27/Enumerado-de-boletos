@@ -11,7 +11,7 @@ Este script automatiza la numeración de boletos en un archivo PDF. A partir de 
 
 **Explicación**
 
-A partir de una imagen(boleto inicial), crear una repetición de un documento pdf según los boletos que se desear tener en una hoja.
+A partir de una imagen(boleto inicial), crear una repetición en un documento pdf según los boletos que se desear tener en una hoja.
 ![Imagen del boleto inicial](/boleto.png "width: 20%; height: 200px")
 La repetición se puede hacer directamente con algun editor como *word*, *publisher*, *canva* entre otros, eso no quiere decir con **python** no se pueda hacer, sin embargo la finalidad de esto, unicamente es la  **enumeración de cada boleto**.
 
